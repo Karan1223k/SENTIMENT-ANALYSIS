@@ -1,5 +1,3 @@
-<img width="434" height="191" alt="Screenshot 2026-10-09 at 3 13 22 PM" src="https://github.com/user-attachments/assets/e44bd89e-2d9f-468d-b892-4bc568a5cb9a" />
-<img width="474" height="180" alt="Screenshot 2026-10-09 at 3 13 01 PM" src="https://github.com/user-attachments/assets/92797e83-3760-40df-9fd4-1872bbac9db6" />
 # Movie Review Sentiment Analysis
 
 Give it a movie review and it tells you whether the person liked the movie or not.
