@@ -16,6 +16,8 @@ There isn't much here, and that's on purpose.
 SENTIMENT-ANALYSIS/
 ├── IMDB-Dataset.csv                      # 50k labelled movie reviews (~66 MB)
 ├── MoviewReviewSentimentOriginal.ipynb   # the whole project lives here
+├── images/
+│   └── accuracy.png                      # screenshot used in this README
 └── README.md                             # you're reading it
 ```
 
@@ -116,14 +118,7 @@ The results:
 - a brutal one-star rant about an Avengers movie → predicted **0 (negative)** ✔
 - the glowing review of *Oz* from the dataset → predicted **1 (positive)** ✔
 
-<!--
-SCREENSHOT PLACEHOLDER
-Replace the line below with a screenshot of the notebook cell that prints:
-  Gaussian Model =  0.7843
-  Bernoulli Model =  0.8386
-Save it as e.g. images/accuracy.png and update the path.
--->
-<img width="427" height="183" alt="Screenshot 2026-10-09 at 3 13 47 PM" src="https://github.com/user-attachments/assets/fb73b62c-f79c-4a0c-b8a1-c9ed0abb8924" />
+<img width="427" alt="Gaussian vs Bernoulli accuracy output from the notebook" src="images/accuracy.png" />
 
 ---
 
