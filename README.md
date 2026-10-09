@@ -1,3 +1,5 @@
+<img width="434" height="191" alt="Screenshot 2026-10-09 at 3 13 22 PM" src="https://github.com/user-attachments/assets/e44bd89e-2d9f-468d-b892-4bc568a5cb9a" />
+<img width="474" height="180" alt="Screenshot 2026-10-09 at 3 13 01 PM" src="https://github.com/user-attachments/assets/92797e83-3760-40df-9fd4-1872bbac9db6" />
 # Movie Review Sentiment Analysis
 
 Give it a movie review and it tells you whether the person liked the movie or not.
@@ -123,7 +125,7 @@ Replace the line below with a screenshot of the notebook cell that prints:
   Bernoulli Model =  0.8386
 Save it as e.g. images/accuracy.png and update the path.
 -->
-![Model accuracy output](images/accuracy.png)
+<img width="427" height="183" alt="Screenshot 2026-10-09 at 3 13 47 PM" src="https://github.com/user-attachments/assets/fb73b62c-f79c-4a0c-b8a1-c9ed0abb8924" />
 
 ---
 
